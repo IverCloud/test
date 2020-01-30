@@ -1,6 +1,7 @@
 ﻿function New-RandomPassword
 {
   <#
+   # Stolen from MS and edited to generate pwds when run.
     .SYNOPSIS
         Generates one or more passwords.
     .DESCRIPTION
