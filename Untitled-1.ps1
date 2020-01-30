@@ -1,3 +1,3 @@
 Write-Output "Hello world"
-$testvar = "end this shit now"
+$testvar = "End this shit now"
 Write-Output $testvar
